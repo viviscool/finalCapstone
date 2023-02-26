@@ -10,8 +10,9 @@ Instructions:
 
 Usage: 
 1. Use menu to navigate through different inventory option
-![](Images/Screenshot 2023-02-26 at 12.39.41.png)
-2. If option 2 selection- all stock is available to view
-![](Images/Screenshot 2023-02-26 at 12.39.59.png)
+![Test Image 1](images/menu1.png)
+
+3. If option 2 selection- all stock is available to view
+![Test Image 1](images/menu2.png)
 
 Credits: Mr V Sharma (author)
